@@ -1,4 +1,4 @@
-# GuideMe
+### GuideMe
 
 Guide me is a mobile app for iOS system written in Swift 3. Objective of the app is to aid users with varying degree of visual impairment to navigate an underground station. To achieve this goal our app scans for Bluetooth Beacons and passes directions to the user if it detects a beacon with an ID it knows.  
 
